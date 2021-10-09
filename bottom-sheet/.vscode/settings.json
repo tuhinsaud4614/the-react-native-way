@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
+  }
+}
