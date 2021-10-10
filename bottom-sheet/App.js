@@ -5,7 +5,7 @@ import { Provider } from "react-native-paper";
 import BottomSheet from "./bottom-sheet/BottomSheet";
 
 export default function App() {
-  const [show, setShow] = useState(true);
+  const [show, setShow] = useState(false);
   return (
     <Provider>
       <View style={styles.container}>
